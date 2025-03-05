@@ -1,28 +1,33 @@
-<<<<<<< HEAD
-# README
+# Crypto Monitor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Um sistema para monitorar preços de criptomoedas em tempo real, com suporte a USD e BRL.
 
-Things you may want to cover:
+## Funcionalidades
 
-* Ruby version
+- Exibição de preços em tempo real.
+- Variação de preços em diferentes períodos (1 minuto, 1 hora, 24 horas, 7 dias, 14 dias).
+- Armazenamento de histórico de preços por até 30 dias.
 
-* System dependencies
+## Tecnologias
 
-* Configuration
+- Ruby on Rails
+- API CoinGecko
+- API de Câmbio (AwesomeAPI)
 
-* Database creation
+## Como Executar
 
-* Database initialization
+1. Clone o repositório:
+```
+   git clone https://github.com/SEU_USUARIO_GITHUB/crypto_monitor.git
+```
+2.   Instale as dependências:
 
-* How to run the test suite
+```
+bundle install
+```
+3. Execute o servidor:
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# crypto_monitor
->>>>>>> 25fdfb7bc4f6addef6a75a62b590395a71f06402
+```
+rails server
+```
+Acesse http://localhost:3000 no navegador.
