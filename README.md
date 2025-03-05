@@ -18,7 +18,7 @@ Um sistema para monitorar preços de criptomoedas em tempo real, com suporte a U
 
 1. Clone o repositório:
 ```
-   git clone https://github.com/SEU_USUARIO_GITHUB/crypto_monitor.git
+   git clone https://github.com/RobertLlb/crypto_monitor.git
 ```
 2.   Instale as dependências:
 
