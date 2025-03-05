@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  coin_name: MyString
+  price_usd: 1.5
+  price_brl: 1.5
+  timestamp: 2025-03-04 21:50:27
+
+two:
+  coin_name: MyString
+  price_usd: 1.5
+  price_brl: 1.5
+  timestamp: 2025-03-04 21:50:27
